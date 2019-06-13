@@ -20,7 +20,7 @@ env:
     - BROWSER_PROVIDER_READY_FILE=/tmp/sauce-connect-ready
     - LOGS_DIR=/tmp/logs
     - CYPRESS_RECORD_KEY=4aa7a1c0-3a4f-444e-b324-6fc305a543a8
-    - NPM_AUTH_TOKEN_CI_PR=c65e753e-473d-4e19-80fe-369ded3d4893
+    - NPM_AUTH_TOKEN_CI_PR=5a844967-c85e-4aad-a08a-8896aa5ac320
 
 #     test cypress smoke
 testSmokeCy: &testSmokeCy
